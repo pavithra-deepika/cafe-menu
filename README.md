@@ -9,7 +9,7 @@
 - Code Editor (like Visula Studio Code/ notepad)
 
 ## application shots
-![image1](https://github.com/pavithra-deepika/-CodeCamp-catPhotoAp/blob/main/image/image%201.png)
+![image1](https://github.com/pavithra-deepika/cafe-menu/blob/main/image/image.png)
 
 ##Steps
 
