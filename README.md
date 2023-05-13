@@ -8,7 +8,7 @@
 - browser
 - Code Editor (like Visula Studio Code/ notepad)
 
-## application shots
+## Application shots
 ![image1](https://github.com/pavithra-deepika/cafe-menu/blob/main/image/image.png)
 
 ## Learnt
