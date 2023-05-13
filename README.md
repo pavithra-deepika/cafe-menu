@@ -1,4 +1,4 @@
-<h1 align="center"> FCC-1-CatPhotoApp </h1>
+<h1 align="center"> Cafe Menu </h1>
 
 ## Getting Started
 
@@ -21,7 +21,7 @@
  - p is a block of element. take a full width so decrase in p element width using css propert display attribute to set value in inline-block.
  - inline block take only width of the content.
  - even padding to all top, bottom,left,right - padding: 20px.
- - <hr> tag using o display a divider horizantal line  between section of different content.
+ - hr tag using o display a divider horizantal line  between section of different content.
  - even space arround content & sides  using display properties - padding left - 20px,  padding right- 20px.
  - link color changing using Pseudo selector.
  - a: visited,
